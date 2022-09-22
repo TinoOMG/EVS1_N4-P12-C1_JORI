@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'jori_proyecto1',
+    'jori_App2',
 ]
 
 MIDDLEWARE = [

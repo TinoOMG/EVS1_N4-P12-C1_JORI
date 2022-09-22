@@ -5,4 +5,4 @@ def vista1(request):
 	return HttpResponse("<h1>Hola Profe :)</h1>"+"<h2>Pongame una buena nota</h2>")
 
 def vista2(request):
-	return HttpResponse("<h1>Chao Mundo</h1>")
+	return HttpResponse("<h1>Chao Mundo</h1>"+"<h2>Si me coloca una mala nota :(</h2>")
